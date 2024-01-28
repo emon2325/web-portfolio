@@ -80,3 +80,6 @@ h2{
           border-image-slice: 2;
 
         }
+        footer p{
+          text-align: center;
+        }
